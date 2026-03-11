@@ -165,11 +165,4 @@ streamlit run streamlit_app.py
 
 ---
 
-## 👨‍💻 Author
 
-**Manya Ghorpade**
-
-BTech AI & ML Student
-
-GitHub:  
-https://github.com/manya-ghorpade
